@@ -1,4 +1,4 @@
-package com.bg;
+package com.bg.kv.store;
 
 import io.quarkus.test.junit.QuarkusTest;
 import org.junit.jupiter.api.Test;
